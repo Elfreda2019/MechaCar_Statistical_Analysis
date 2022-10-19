@@ -25,15 +25,15 @@ equal to the median. Based on the design requirement, current manufacturing data
 meet this design specification for all manufacturing lots in total.
 
  
- ![image](https://github.com/Elfreda2019/MechaCar_Statistical_Analysis/blob/main/resources/fig2.png)
- Table 2
+![image](https://github.com/Elfreda2019/MechaCar_Statistical_Analysis/blob/main/resources/fig2.png)
+Table 2
  
  From the results of lots summary, the current manufacturing data meet this design
 specification for lots 1 and lot 2 but not for lot 3 which has variance exceeding 100
 pounds per square inch.
 
- ![image](https://github.com/Elfreda2019/MechaCar_Statistical_Analysis/blob/main/resources/fig3.png)
- Table 3
+![image](https://github.com/Elfreda2019/MechaCar_Statistical_Analysis/blob/main/resources/fig3.png)
+Table 3
  
  ## T-Tests on Suspension Coils
  
