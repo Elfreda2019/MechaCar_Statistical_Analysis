@@ -26,6 +26,7 @@ meet this design specification for all manufacturing lots in total.
 
  
 ![image](https://github.com/Elfreda2019/MechaCar_Statistical_Analysis/blob/main/resources/fig2.png)
+
 Table 2
  
  From the results of lots summary, the current manufacturing data meet this design
